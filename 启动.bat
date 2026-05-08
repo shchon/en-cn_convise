@@ -1,0 +1,1 @@
+cd bilingual-formatter && npm run dev
